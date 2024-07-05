@@ -1,2 +1,2 @@
 # projetos
- C:\Users\user\Documents\Estudos\projetos
+Card para rede social
